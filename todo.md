@@ -1,0 +1,4 @@
+- [] Placeholder validation
+  - Such as `{placeholderkey}`
+  - Using regular expressions to check if the changed variant contains the required placeholders
+  - Issues: could be that placeholders are optional or not all are used within the template
