@@ -28,6 +28,10 @@
   * Runs on push to the main branch
   * Triggered by workflow -> `.github/workflows/update-readme-recap.yaml`
 
+## Additional features
+
+I have also created a [github action](https://github.com/Maximus7474/locale-manager-action) that links to this repository structure, to pull updated changes to the json files to the closed source project. Making it an easy system to implement into your CI/CD pipeline making your project easier to contribute to by your community without having the hassle of manually updating the files.
+
 ---
 
 # Locales repository
