@@ -1,6 +1,6 @@
 # Locales manager repository template
 
-> [NOTE]
+> [!NOTE]
 > This is a template repository that you can use freely, make sure all data is updated in the various paths to work properly. 
 
 ## Setup
